@@ -1,0 +1,224 @@
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+   }
+    
+   /* Element Selectors */
+   body {
+    text-align: right;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: 20px;
+    background-color: #fdf8f5;
+    color: #4f4846;
+   }
+    
+   h1 {
+    margin: -10px;
+   position: relative;
+    margin-top: 10px;
+    right: 700px;
+    }
+   h2 {
+    bottom: 15px;
+    text-align:center;
+   }
+   li {
+   position: relative;
+   left: -130px;
+   }
+    
+   main {
+    padding: 60px 0;
+   }
+    
+   li {
+    display: inline;
+    padding: 0px 20px;
+    text-decoration: none;
+   }
+    
+   a {
+    text-decoration: none;
+    color: #fdf8f5;
+   }
+   .headerpic {
+    width:1300px;
+    height: 500px;
+    position: relative;
+    right: 10px;
+    bottom: 50px
+    
+   }
+    
+   header,
+   footer {
+    margin-top:auto 0;
+    height: 110px;
+    width: 110%;
+    line-height: 60px;
+    background-color: #a88b6e;
+   }
+    
+   header {
+    border-bottom: 10px solid #94b9dd;
+   }
+    
+   footer {
+    margin-top: 0;
+    bottom: 0;
+    border-bottom: 10px solid #4f4846;
+    color: #fdf8f5;
+   }
+    
+   .resize {
+    width: 1300px;
+    height: 500px;
+    padding-top: 50px;
+    padding-bottom: 32px;
+    
+   }
+   .c1{
+    position: relative;
+    right: 340px;
+   }
+   .g1{
+    position: relative;
+    right: 340px;
+   }
+   .f1{
+    position: relative;
+    right: 340px;
+    }
+   .ct {
+    position: relative;
+    right: 340px;
+    margin-top: 20px;
+    margin-right: 420px;
+    margin-left: 40%;
+    left: 195px;
+    text-align: center;
+   }
+   .gt {
+    position: relative;
+    right: 340px;
+    margin-top: 20px;
+    margin-right: -70px;
+   text-align: center;
+    left: -295px;
+    }
+   .ft {
+    position: relative;
+    right: 340px;
+    margin-top: 20px;
+    margin-right: 400px;
+    margin-left: ;
+    left:195px ;
+    text-align: center;
+    }
+   .cairo {
+    
+    position: relative;
+    right: 0px;
+    top: -100px;
+    width: 500px;
+    height: 350px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+   }
+    
+   .giza {
+    
+    position: relative;
+    right: 500px;
+    top: -100px;
+    width: 500px;
+    height: 350px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    
+   }
+   .faiyum {
+    position: relative;
+    right: 0px;
+    top: -105px;
+    width: 500px;
+    height: 350px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    
+   }
+    
+   figcaption {text-align: center;}
+    
+    
+    
+   section {
+    
+     
+    height: 300px;
+    margin-bottom: 0;
+    margin-top: 40px;
+    padding: 40px 10px 40px 10px;
+    border-top: 3px solid #94b7dd;
+    background-color: #e8cebf;
+   }
+    
+   form {
+    
+     margin: 0 auto;
+    width: 500px;
+    padding: 10px;
+    border: 5px solid #94b4dd;
+    border-radius: 20px;
+   }
+    
+   label {
+     position: relative;
+    left: 80px;
+    
+    display: inline-block;
+    width: 100px;
+   }
+    
+   input,
+   textarea {
+    position:relative;
+    left:80px;
+    box-sizing: border-box;
+    width: 300px;
+    border: 1px solid #4f4846;
+   }
+    
+   textarea {
+     vertical-align: top;
+    height: 60px;
+   }
+   form {
+   text-align: center;
+   }
+   h2 {
+    position: relative;
+    right: 240px;
+   }
+   button {
+    position:relative;
+   left: 0px;
+    height: 40px;
+    width: 120px;
+    margin-top: 10px;
+    background-color: #4f4846;
+    color: #fdf8f5;
+    
+   }
+   /* Class Selectors */
+   .text-center {
+    text-align: center;
+   }
+    
+   .text-right {
+    text-align: right;
+    
+    
+   
+   
